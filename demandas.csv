@@ -1,0 +1,49 @@
+id,local,tipo,demanda,x,y,critico
+D1,Portal principal (Av. Trabalhador),portaria,329,319,1579,Não
+D2,Acesso nordeste (Rua L),portaria,220,710,1382,Não
+D3,Acesso oeste (IFSC / Rua F),portaria,376,224,678,Não
+D4,Acesso leste (Rua F / ICMC),portaria,398,1082,667,Não
+D5,Acesso sul (Rua J),portaria,167,612,44,Não
+D6,Biblioteca da Química,biblioteca,183,304,1172,Não
+D7,Biblioteca Central (EESC),biblioteca,405,688,770,Não
+D8,Biblioteca do ICMC,biblioteca,327,869,713,Não
+D9,Restaurante Central (RU),restaurante,597,585,907,Não
+D10,Restaurante Quiosque,restaurante,465,437,1375,Não
+D11,CAASO / Centro Acadêmico,serviço,195,525,861,Não
+D12,Prefeitura do Campus (prédios oficiais),serviço,189,503,1426,Não
+D13,Salão de Eventos,serviço,153,672,1186,Não
+D14,Centro Cultural / CDCC,serviço,210,596,115,Não
+D15,Ginásio Poliesportivo,esporte,115,645,1104,Não
+D16,CEFER (setor esportivo),esporte,77,536,1049,Não
+D17,Moradia estudantil (Bloco A),moradia,223,710,700,Sim
+D18,Praça Central,praça,188,568,741,Não
+D19,Praça das Décadas,praça,325,563,539,Não
+D20,Cruz. Rua H x K,cruzamento,79,257,1426,Não
+D21,Cruz. Rua H x F,cruzamento,76,240,1268,Não
+D22,Cruz. Rua H x Q,cruzamento,65,238,1120,Não
+D23,Cruz. Rua H x E,cruzamento,115,235,836,Não
+D24,Cruz. Rua I x E,cruzamento,76,377,836,Não
+D25,Cruz. Rua I x F,cruzamento,70,377,672,Não
+D26,Cruz. Rua R x F,cruzamento,72,634,672,Não
+D27,Cruz. Rua U x F,cruzamento,94,694,672,Não
+D28,Cruz. Rua F leste,cruzamento,89,874,667,Não
+D29,Cruz. Rua U x G,cruzamento,91,694,486,Não
+D30,Cruz. Rua J x G,cruzamento,91,634,486,Não
+D31,Cruz. Rua J centro,cruzamento,152,634,350,Não
+D32,Cruz. Rua J sul,cruzamento,71,634,219,Não
+D33,Cruz. Rua R x S,cruzamento,69,634,913,Não
+D34,Cruz. Rua O x M,cruzamento,63,478,1182,Não
+D35,Cruz. Rua O norte do CEFER,cruzamento,96,478,1038,Não
+D36,Cruz. Rua B x L,cruzamento,112,481,1344,Não
+D37,Cruz. Rua N x M,cruzamento,77,634,1191,Não
+D38,Cruz. Rua B norte,cruzamento,62,415,1492,Não
+D39,Cruz. Rua H norte,cruzamento,62,262,1541,Não
+D40,Campo de futebol,área aberta,49,317,973,Sim
+D41,Quadras poliesportivas,área aberta,50,525,973,Sim
+D42,Via oeste (Rua K/P),via isolada,35,93,1290,Sim
+D43,Área norte (elevatória),via isolada,25,142,1546,Sim
+D44,Rua H trecho central,via isolada,32,235,994,Sim
+D45,Rua J extremo sul,via isolada,31,628,164,Sim
+D46,Fundos do IFSC (Rua G),via isolada,32,393,486,Sim
+D47,Rua F leste (ICMC/DTI),via isolada,39,984,667,Sim
+D48,Setor leste (DTI-SC),via isolada,32,885,842,Sim
